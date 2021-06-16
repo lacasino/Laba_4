@@ -1,0 +1,74 @@
+C:\Users\3nora\source\repos\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.csprojAssemblyReference.cache
+C:\Users\3nora\source\repos\Laba_4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\3nora\source\repos\Laba_4\obj\Debug\netcoreapp3.1\newOrderWPF.g.cs
+C:\Users\3nora\source\repos\Laba_4\obj\Debug\netcoreapp3.1\OrdersWPF.g.cs
+C:\Users\3nora\source\repos\Laba_4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\3nora\source\repos\Laba_4\obj\Debug\netcoreapp3.1\Laba_4_MarkupCompile.cache
+C:\Users\3nora\source\repos\Laba_4\obj\Debug\netcoreapp3.1\Laba_4_MarkupCompile.lref
+C:\Users\Macro\Documents\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.exe
+C:\Users\Macro\Documents\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.deps.json
+C:\Users\Macro\Documents\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.runtimeconfig.json
+C:\Users\Macro\Documents\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.runtimeconfig.dev.json
+C:\Users\Macro\Documents\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.dll
+C:\Users\Macro\Documents\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.pdb
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.csproj.AssemblyReference.cache
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\Laba_4_MarkupCompile.cache
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\Laba_4_MarkupCompile.lref
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.g.resources
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.AssemblyInfoInputs.cache
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.AssemblyInfo.cs
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.csproj.CoreCompileInputs.cache
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.dll
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.pdb
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.genruntimeconfig.cache
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\mainwindow.g.cs
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\mainwindow.baml
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\addNewDishWPF.g.cs
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\addNewOrderWPF.g.cs
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\addNewDishWPF.baml
+C:\Users\Macro\Documents\Laba_4\obj\Debug\netcoreapp3.1\addNewOrderWPF.baml
+D:\лаба 4 максим\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.exe
+D:\лаба 4 максим\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.deps.json
+D:\лаба 4 максим\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.runtimeconfig.json
+D:\лаба 4 максим\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.runtimeconfig.dev.json
+D:\лаба 4 максим\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.dll
+D:\лаба 4 максим\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.pdb
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.csprojAssemblyReference.cache
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\addNewDishWPF.g.cs
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\addNewOrderWPF.g.cs
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\mainwindow.g.cs
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\App.g.cs
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\Laba_4_MarkupCompile.cache
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\Laba_4_MarkupCompile.lref
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\addNewDishWPF.baml
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\addNewOrderWPF.baml
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\mainwindow.baml
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.g.resources
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.AssemblyInfoInputs.cache
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.AssemblyInfo.cs
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.dll
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.pdb
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\DopOkno.g.cs
+D:\лаба 4 максим\Laba_4\obj\Debug\netcoreapp3.1\DopOkno.baml
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.exe
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.deps.json
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.runtimeconfig.json
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.runtimeconfig.dev.json
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.dll
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\bin\Debug\netcoreapp3.1\Laba_4.pdb
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.csproj.AssemblyReference.cache
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\mainwindow.g.cs
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\Laba_4_MarkupCompile.cache
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\Laba_4_MarkupCompile.lref
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\mainwindow.baml
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.g.resources
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.AssemblyInfoInputs.cache
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.AssemblyInfo.cs
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.csproj.CoreCompileInputs.cache
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.dll
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.pdb
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\Laba_4.genruntimeconfig.cache
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\addOrder.g.cs
+C:\Users\Macro\Downloads\Telegram Desktop\Laba_4\obj\Debug\netcoreapp3.1\addOrder.baml

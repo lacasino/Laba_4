@@ -1,0 +1,12 @@
+﻿<Dishs>
+  <Dish>
+    <NameOfDish>Млинці</NameOfDish>
+    <Price>15</Price>
+    <TimeToCook>70</TimeToCook>
+    <Chef>
+      <FirstName>Ектор</FirstName>
+      <LastName>Хіменес-Браво</LastName>
+    </Chef>
+    <Category>holodni_stravu</Category>
+  </Dish>
+</Dishs>

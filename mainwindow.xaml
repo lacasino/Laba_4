@@ -1,0 +1,26 @@
+﻿<Window x:Class="Laba_4.mainWindowWPF"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Laba_4"
+        mc:Ignorable="d"
+        Title="mainWindowWPF" Height="415" Width="637" Background="#FF681C65">
+    <Grid HorizontalAlignment="Center" Width="617" Height="405" VerticalAlignment="Top">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="51*"/>
+            <ColumnDefinition Width="221*"/>
+            <ColumnDefinition Width="276*"/>
+            <ColumnDefinition Width="34*"/>
+            <ColumnDefinition Width="34*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="OrdersList" Margin="15,10,0,0" SelectionChanged="OrderListWPF_SelectionChanged" Grid.ColumnSpan="5" HorizontalAlignment="Left" Width="587" Height="296" VerticalAlignment="Top"/>
+        <Button x:Name="Create" Content="Створити" HorizontalAlignment="Left" Margin="15,349,0,0" VerticalAlignment="Top" Height="24" Width="67" Click="Create_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="Show" Content="Детальніше" HorizontalAlignment="Left" Margin="142,348,0,0" VerticalAlignment="Top" Height="25" Width="96" Click="Show_Click" Background="#FF3F11DE" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <Button x:Name="Remove" Content="Видалити" HorizontalAlignment="Left" Margin="262,348,0,0" VerticalAlignment="Top" Height="25" Width="72" Click="Remove_Click" Grid.Column="2" Background="#FFE60909" Grid.ColumnSpan="3" RenderTransformOrigin="0.152,0.853"/>
+        <Button x:Name="Save" Content="Зберегти" HorizontalAlignment="Left" Height="26" Margin="185,348,0,0" VerticalAlignment="Top" Width="64" Click="Save_Click" Grid.Column="2" Background="#FFFBD010"/>
+        <TextBox x:Name="CafeName" HorizontalAlignment="Left" Margin="42,352,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="86" Grid.Column="1"/>
+        <Button x:Name="createDish" Content="Створити замовлення" Margin="36,348,0,0" Click="createDish_Click" Grid.Column="2" Background="#FF33EA0A" HorizontalAlignment="Left" Width="128" Height="27" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
